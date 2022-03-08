@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TANOTI</string>
+    <string name="start">start</string>
+    <string name="create_account">Create <b>Account</b> </string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="signup_btn">Signup</string>
+    <string name="email">Email</string>
+    <string name="or">OR</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="login_btn">Log in</string>
+    <string name="sign_in">Sign <b>in</b></string>
+    <string name="create_new_account">Create new account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="write_a_massage">Write a massage...</string>
+</resources>

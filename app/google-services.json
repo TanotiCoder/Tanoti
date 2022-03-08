@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165081329261",
+    "project_id": "tanoti",
+    "storage_bucket": "tanoti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165081329261:android:2685d101228751ea2c5964",
+        "android_client_info": {
+          "package_name": "com.example.tanoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165081329261-fqfc5eeshu3acp0u0eth1cgnuk2o7ub3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-_zNvsbbqBZS3hh37Iyc7niUwMzgeVFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165081329261-fqfc5eeshu3acp0u0eth1cgnuk2o7ub3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
